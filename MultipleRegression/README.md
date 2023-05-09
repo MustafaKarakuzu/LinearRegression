@@ -1,4 +1,4 @@
-# MultipleRegression
+# Multiple Regression and Correlation Analysis
 
 #### References:
 
